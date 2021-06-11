@@ -1,0 +1,1 @@
+alias bridge='docker run --net=host -it bridge $ROS_IP $HOST_NAME'
